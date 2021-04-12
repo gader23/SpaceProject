@@ -1,0 +1,92 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Vec2D.cpp
+  time.cpp
+  main.cpp
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.h(15,38): warning C4042: 'pi': tiene una clase de almacenamiento incorrecta
+  graphics.cpp
+  C_Application.cpp
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.h(15,38): warning C4042: 'pi': tiene una clase de almacenamiento incorrecta
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(15,66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(15,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(16,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(16,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(23,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(23,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(26,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(26,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(125,65): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(125,51): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(125,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(125,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(126,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(126,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(126,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(126,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(127,61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(127,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(127,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(127,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(129,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(142,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(152,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(156,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(157,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(166,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(168,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(180,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(182,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(195,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(197,24): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(205,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(207,25): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(227,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(227,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(230,52): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\C_Application.cpp(230,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Clock.cpp
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.h(15,38): warning C4042: 'pi': tiene una clase de almacenamiento incorrecta
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(24,93): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(24,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(24,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(24,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(25,93): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(25,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(25,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(25,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(26,93): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(26,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(26,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(26,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(27,93): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(27,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(27,47): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(27,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(28,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(28,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(28,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(28,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(29,73): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(29,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(29,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(29,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(30,73): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(30,50): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(30,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(30,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(33,44): warning C4042: 'pi': tiene una clase de almacenamiento incorrecta
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(37,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(38,34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(39,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(40,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(41,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Clock.cpp(42,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Bullet.cpp
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(17,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(18,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(24,70): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(24,52): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(24,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\gabyc\Documents\SpaceProyect\code\Bullet.cpp(24,19): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+Bullet.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  test.vcxproj -> C:\Users\gabyc\Documents\SpaceProyect\code\Debug\test.exe

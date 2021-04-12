@@ -1,0 +1,4 @@
+F:\H13Test\code\Debug\test.exe
+F:\H13Test\code\Debug\test.pdb
+C:\Users\gabyc\Documents\SpaceProyect\code\Debug\test.exe
+C:\Users\gabyc\Documents\SpaceProyect\code\Debug\test.pdb
